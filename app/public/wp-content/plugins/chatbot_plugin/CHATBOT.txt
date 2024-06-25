@@ -1,0 +1,7 @@
+CHATBOT
+ Versión 0
+	Responder a algunas preguntas básicas e integración en la web.
+	Hay que ejecutar el servicio manualmente.
+ Versión 0.1
+	Incialización automática.
+ Versión 0.2

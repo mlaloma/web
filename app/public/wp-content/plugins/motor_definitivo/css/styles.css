@@ -1,0 +1,56 @@
+.swp-preferences-form input[type="text"],
+.swp-preferences-form select {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    padding: 8px;
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.swp-preferences-form label {
+    font-size: 18px;
+}
+
+/* Estilo para inputs dentro de la tabla */
+.swp-preferences-form table.form-table input[type="text"] {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    padding: 8px;
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+.swp-preferences-form select option {
+    white-space: nowrap;
+    padding: 8px; /* Añade un relleno para mejorar la apariencia */
+}
+
+.productos-mejor-valorados {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.productos-mejor-valorados .producto {
+    width: 23%;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.productos-mejor-valorados .producto img {
+    max-width: 100%;
+    height: auto;
+}
+.productos-mejor-valorados .producto h3 {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+.productos-mejor-valorados .producto p {
+    margin: 5px 0;
+}
